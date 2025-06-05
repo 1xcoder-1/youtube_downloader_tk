@@ -36,6 +36,3 @@ A simple GUI built using Tkinter and pytube for downloading videos from YouTube.
    <p align="center">
    <img src="https://user-images.githubusercontent.com/93064304/171881323-5ad7b220-fe87-4c71-8774-7b746c2a78c2.png">
    </p>
- ***pytube.exceptions.RegexMatchError:*** Exception, then please refer to [this](https://github.com/prateekralhan/Python-based-Youtube-downloader/issues/2) issue.
-
-###### Raise an issue, if you want any form of help! :smile:
